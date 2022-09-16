@@ -16,4 +16,6 @@ Run Tailwind CLI
 npm run watch
 ```
 
+https://stirring-melba-6755d6.netlify.app/
+
 ![Alt text](images/clipboard.png)
